@@ -32,7 +32,7 @@
         android:maxLines="1"
         android:singleLine="true"
         app:layout_constraintBottom_toBottomOf="@id/scroll"
-        app:layout_constraintEndÍ_toStartOf="@id/showMoreView"
+        app:layout_constraintEnd_toStartOf="@id/showMoreView"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
